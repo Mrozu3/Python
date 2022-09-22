@@ -1,0 +1,1 @@
+Popularna gra strategiczno-planszowa „Statki” lub inaczej zwana „Okręty”, „Wojna Morska”, „Bitwa Morska” (ang. Battleship) napisana w języku Python z tekstowym interfejsem obsługująca gry: gracz kontra komputer oraz komputer kontra komputer.

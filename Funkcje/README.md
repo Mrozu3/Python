@@ -1,0 +1,1 @@
+Iteracyjna wersja silni, ciągu Fibonacciego, funkcja odwracaja w wersji iteracyjnej i rekurencyjnej, suma liczb w sekwencji i podsekwencji.

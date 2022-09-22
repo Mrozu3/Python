@@ -1,0 +1,1 @@
+Program obsługujący działania na odcinkach czasu oraz program obsługujący działania na punktach na płaszczyźnie z modułami testującym. 

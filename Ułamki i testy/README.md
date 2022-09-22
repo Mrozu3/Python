@@ -1,0 +1,1 @@
+Funkcje działań na ułamkach reprezentowanych przez listę dwóch liczb całkowitych [licznik, mianownik] z modułem testującym. 

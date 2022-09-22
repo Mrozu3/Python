@@ -1,0 +1,1 @@
+Programy obsługujący działania na punktach, okręgach i prostokątach na płaszczyźnie z modułami testującym. 

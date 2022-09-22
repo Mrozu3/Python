@@ -1,0 +1,1 @@
+Proste zadania w Python: Program wypisujący potęgę danej liczby, rysowanie miarki i prostokąta ze znaków oraz różne struktury danych.
